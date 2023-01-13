@@ -1,4 +1,6 @@
-# SOEN422_Project_Helmet
+# Smart Helm
+
+![Smart Helm](/320391047_729731128126008_1694693137878049535_n.jpg)
 
 Coordinator:
 Ground control for the emergency team. Can access the database and change
